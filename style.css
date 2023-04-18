@@ -1,0 +1,41 @@
+.main-body{
+    background-color:aquamarine;
+    height:100vh;
+   
+}
+.calc{
+    width:500px;
+    height: 700px;
+    background:gray;
+    margin-left: 550px;
+
+}
+
+#display{
+    
+    width:80%;
+    margin-left: 46px;
+    height: 80px;
+    margin-top: 80px;
+    pointer-events: none;
+    text-align:left;
+}
+.buttons{
+    margin-left: 38px;
+    margin-top: 40px;
+    
+}
+.btn{
+    height: 40px;
+    width:80px;
+    margin-left: 18px;
+    background:rgb(239, 200, 126);
+    margin-top: 60px;
+
+}
+.btns{
+    margin-left: 328px;
+    margin-top: 40px;
+    width: 70px;
+    height: 20px;
+}
